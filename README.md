@@ -45,13 +45,13 @@ It is lightweight and has few functions, so it is suitable for creating trial pa
 </html>
 ```
 
-```python
+```html
 <html>
 	<head />
 	<body>
 		<div id="app">Loading...</div>
 		<script src="python-wasm-vdom.js"></script>
-		<script type="text/python" src="counter.py">
+		<script type="text/python" src="counter.py"></script>
 	</body>
 </html>
 ```
